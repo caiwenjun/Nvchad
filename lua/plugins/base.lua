@@ -79,4 +79,9 @@ return {
       }
     end,
   },
+  {
+    "metakirby5/codi.vim",
+    cmd = "Codi",
+    lazy = true,
+  },
 }
